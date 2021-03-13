@@ -1,5 +1,5 @@
 # Nano_Powerpack
-5V LiPo charge/boost eval board 
+5V LiPo charge/boost eval board to be used with CM4 and CM4Ext boards 
 
 **Status:** Testing
 
